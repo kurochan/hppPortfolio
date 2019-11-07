@@ -3,8 +3,8 @@ module.exports = {
 	title: `hpp Portfolio`, // タイトル
 	titleAlt: `hpp Portfolio`, // JSONLDのためのタイトル
 	description: `hpp is a Japanese student, majoring in computer science and Informatics at Nagoya uni.`,
-	url: `https://hpprc.com`, // スラッシュなしのサイトURL
-	siteUrl: `https://hpprc.com/`, // スラッシュありのサイトURL
+	url: `https://blog.hpprc.com`, // スラッシュなしのサイトURL
+	siteUrl: `https://blog.hpprc.com/`, // スラッシュありのサイトURL
 	siteLanguage: `ja`, // HTMLの言語（ここでは日本語）
 	icon: `src/images/icon.png`,
 	logo: `src/images/icon.png`,
