@@ -15,7 +15,15 @@ const Theme = styled(PageBaseTheme)``;
 
 export default () => (
 	<Layout>
-		<h1>This is Blog branch</h1>
-		<Background />
+		<Layout>
+			<TopMessage />
+			<Theme>
+				<Intro />
+				<About />
+				<Skills />
+				<Events />
+			</Theme>
+			<Background />
+		</Layout>
 	</Layout>
 );
