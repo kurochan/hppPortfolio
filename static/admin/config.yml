@@ -1,9 +1,9 @@
 backend:
     name: github
-    repo: hppRC/hppPortfolio/tree/blog
-    branch: blog
+    repo: hppRC/hppPortfolio
+    branch: master
 
-site_url: https://blog.hpprc.com
+site_url: https://hpprc.com
 display_url: https://hpprc.com
 
 media_folder: static/assets
