@@ -1,6 +1,6 @@
 backend:
     name: github
-    repo: hppRC/hppPortfolio
+    repo: hppRC/hppPortfolio/tree/blog
     branch: blog
 
 site_url: https://blog.hpprc.com
