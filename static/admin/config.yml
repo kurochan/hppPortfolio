@@ -3,6 +3,9 @@ backend:
     repo: hppRC/hppPortfolio
     branch: blog
 
+site_url: https://blog.hpprc.com
+display_url: https://hpprc.com
+
 media_folder: static/assets
 public_folder: assets
 publish_mode: editorial_workflow

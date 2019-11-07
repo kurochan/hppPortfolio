@@ -74,14 +74,14 @@ module.exports = {
 		{
 			resolve: `gatsby-plugin-canonical-urls`,
 			options: {
-				siteUrl: `https://hpprc.com`
+				siteUrl: `https://blog.hpprc.com`
 			}
 		},
 		{
 			resolve: `gatsby-plugin-robots-txt`,
 			options: {
-				host: `https://hpprc.com`,
-				sitemap: `https://hpprc.com/sitemap.xml`,
+				host: `https://blog.hpprc.com`,
+				sitemap: `https://blog.hpprc.com/sitemap.xml`,
 				policy: [{ userAgent: `*`, allow: `/` }]
 			}
 		},
