@@ -5,6 +5,7 @@ import Footer from './footer';
 export const Layout: React.FC = ({ children }) => (
   <>
     <Header />
+    
     <main>{children}</main>
     <Footer />
   </>
