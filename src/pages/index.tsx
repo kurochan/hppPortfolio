@@ -1,5 +1,4 @@
 import React from 'react';
-import { Layout } from '../layouts';
 import { SEO } from '../components';
 import styled from '@emotion/styled';
 import baseStyle from '../styles/base-style';
@@ -13,8 +12,8 @@ const StyledIndex = styled(Index)`
 `;
 
 export default () => (
-  <Layout>
+  <>
     <SEO title='Top' description='top page' pathname='/' />
     <StyledIndex />
-  </Layout>
+  </>
 );
